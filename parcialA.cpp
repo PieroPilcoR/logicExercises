@@ -7,7 +7,7 @@ int main(){
 	int n, tramos;
 	cout<<"Dame el numero de elementos en cada tramo: "<<endl;
 	cin>>n;
-	cout<<"Dame el numero de tramos: "<<endl;
+	cout<<"Dame el numero de tramosxx: "<<endl;
 	cin>>tramos;
 	print(n, tramos);
 }
